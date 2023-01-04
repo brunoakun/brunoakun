@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on 
 - GLS Intranet
-🌱 I’m currently learning 
+
+ 🌱 I’m currently learning 
 - GPT3 API
 
 ## skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,php,js,html,css,wasm,git)](https://skillicons.dev)
