@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 Feel free to contact me
 
  🔭 I’m currently working on 
 - GLS Intranet
 
  🌱 I’m currently learning 
+- Firestore API integration
 - GPT3 API
 
-## skills
-[![My Skills](https://skillicons.dev/icons?i=angular,php,js,html,css,wasm,git)](https://skillicons.dev)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=angular,php,js,html,css,git)](https://skillicons.dev)
