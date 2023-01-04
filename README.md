@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Bruno 👋
 
 <!--
 **brunoakun/brunoakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on 
 - GLS Intranet
--🌱 I’m currently learning 
+🌱 I’m currently learning 
 - GPT3 API
 
+## skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
