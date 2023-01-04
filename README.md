@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on 
 - GLS Intranet
+- Raspberrypi Victron Energy integration
 
  🌱 I’m currently learning 
 - Firestore API integration
 - GPT3 API
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,php,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,php,js,html,css,git,mysql,raspberrypi)](https://skillicons.dev)
